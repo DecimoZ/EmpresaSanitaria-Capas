@@ -4,17 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EmpresaSanitaria_Capas
+namespace _4.Entidades
 {
     public class Class1
     {
     }
 }
-
-
-//blabla
-
-=======
-
-//hola ajja
-
